@@ -1,0 +1,19 @@
+head></head>
+link rel = "stylhesheet"her = "styles.css"
+<body>
+
+
+
+
+
+<header>ALURAFLIX</header>
+
+
+<h1>Dois Passarinhos</h1>
+<p>#passarinhos</p>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72Dg7kY9Bl4?si=JevA1RbpglfhDsBe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
